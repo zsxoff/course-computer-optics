@@ -8,7 +8,7 @@
 
 > Вариант 7
 
-[**Ссылка на Jupyter Notebook**](https://github.com/zsxoff/neural-orthodontic-cephalometry/blob/master/laboratory-1.ipynb)
+[**Ссылка на Jupyter Notebook**](https://github.com/zsxoff/course-computer-optics/blob/master/laboratory-1.ipynb)
 
 ## Лабораторная работа №2
 
@@ -16,10 +16,10 @@
 
 > Вариант 7
 
-[**Ссылка на Jupyter Notebook**](https://github.com/zsxoff/neural-orthodontic-cephalometry/blob/master/laboratory-2.ipynb)
+[**Ссылка на Jupyter Notebook**](https://github.com/zsxoff/course-computer-optics/blob/master/laboratory-2.ipynb)
 
 ## Лабораторная работа №3
 
 Реализация дробного преобразование Фурье. Пропустить через преобразование одномерную моду Гаусса-Эрмита порядка 4 для различных $\alpha$.
 
-[**Ссылка на Jupyter Notebook**](https://github.com/zsxoff/neural-orthodontic-cephalometry/blob/master/laboratory-3.ipynb)
+[**Ссылка на Jupyter Notebook**](https://github.com/zsxoff/course-computer-optics/blob/master/laboratory-3.ipynb)
