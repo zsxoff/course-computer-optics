@@ -33,3 +33,9 @@
 Реализация дробного преобразование Фурье. Пропустить через преобразование одномерную моду Гаусса-Эрмита порядка 4 для различных alpha.
 
 [**Ссылка на Jupyter Notebook**](https://github.com/zsxoff/course-computer-optics/blob/master/laboratory-3.ipynb)
+
+## License
+
+[![License: Unlicense](https://img.shields.io/badge/License-Unlicense-green.svg?style=flat-square)](https://unlicense.org/)
+
+This project is licensed under the terms of the [Unlicense](https://unlicense.org/) (see [LICENSE](<https://github.com/zsxoff/course-computer-optics/blob/master/LICENSE>) file).
