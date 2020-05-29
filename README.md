@@ -1,7 +1,16 @@
-# Лабораторные работы по курсу "Оптическая информатика"
+# Курс: Оптическая информатика
 
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Jupyter%20Notebook-f37726.svg)](https://jupyter.org/)
+> Программная реализация оптических преобразований, основанных на преобразовании Фурье.
+
+---
+
+[![made-with-jupyter-notebook](https://img.shields.io/badge/Made%20with-Jupyter%20Notebook-f37726.svg?style=flat-square)](https://jupyter.org/)
+
+---
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zsxoff/course-computer-optics/master)
+
+---
 
 ## Лабораторная работа №1
 
